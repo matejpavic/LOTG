@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/LOTG/static/css/main.5f361e03.chunk.css",
+    "main.js": "/LOTG/static/js/main.190e8271.chunk.js",
+    "main.js.map": "/LOTG/static/js/main.190e8271.chunk.js.map",
+    "runtime-main.js": "/LOTG/static/js/runtime-main.eb6ea52f.js",
+    "runtime-main.js.map": "/LOTG/static/js/runtime-main.eb6ea52f.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/LOTG/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c82c63f2.chunk.js": "/LOTG/static/js/2.c82c63f2.chunk.js",
+    "static/js/2.c82c63f2.chunk.js.map": "/LOTG/static/js/2.c82c63f2.chunk.js.map",
+    "index.html": "/LOTG/index.html",
+    "precache-manifest.f14ad72253bafeb6c5c5dab8e9587729.js": "/LOTG/precache-manifest.f14ad72253bafeb6c5c5dab8e9587729.js",
+    "service-worker.js": "/LOTG/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/LOTG/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.5f361e03.chunk.css.map": "/LOTG/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.c82c63f2.chunk.js.LICENSE.txt": "/LOTG/static/js/2.c82c63f2.chunk.js.LICENSE.txt",
+    "static/media/NSZSDGrb.svg": "/LOTG/static/media/NSZSDGrb.d8e02694.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb6ea52f.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.c82c63f2.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.190e8271.chunk.js"
+  ]
+}
