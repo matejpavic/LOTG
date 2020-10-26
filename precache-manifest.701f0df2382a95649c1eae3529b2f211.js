@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "559a292cec009f59c0cf2b34939db1a3",
+    "revision": "65cbf2bcbc7c5e20bbd65c45cfc101c3",
     "url": "/LOTG/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LOTG/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "48e1df8c6a393406aa1c",
+    "revision": "99c9374fdb5bb0c57291",
     "url": "/LOTG/static/css/main.5f361e03.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/LOTG/static/js/2.c82c63f2.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "48e1df8c6a393406aa1c",
-    "url": "/LOTG/static/js/main.45f94dee.chunk.js"
+    "revision": "99c9374fdb5bb0c57291",
+    "url": "/LOTG/static/js/main.d10e05d7.chunk.js"
   },
   {
     "revision": "57f27efc45f85a7da191",
