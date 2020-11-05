@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/LOTG/static/css/main.5f361e03.chunk.css",
-    "main.js": "/LOTG/static/js/main.d10e05d7.chunk.js",
-    "main.js.map": "/LOTG/static/js/main.d10e05d7.chunk.js.map",
+    "main.js": "/LOTG/static/js/main.5885f4c1.chunk.js",
+    "main.js.map": "/LOTG/static/js/main.5885f4c1.chunk.js.map",
     "runtime-main.js": "/LOTG/static/js/runtime-main.eb6ea52f.js",
     "runtime-main.js.map": "/LOTG/static/js/runtime-main.eb6ea52f.js.map",
     "static/css/2.3c03f26f.chunk.css": "/LOTG/static/css/2.3c03f26f.chunk.css",
     "static/js/2.c82c63f2.chunk.js": "/LOTG/static/js/2.c82c63f2.chunk.js",
     "static/js/2.c82c63f2.chunk.js.map": "/LOTG/static/js/2.c82c63f2.chunk.js.map",
     "index.html": "/LOTG/index.html",
-    "precache-manifest.701f0df2382a95649c1eae3529b2f211.js": "/LOTG/precache-manifest.701f0df2382a95649c1eae3529b2f211.js",
+    "precache-manifest.45caf2ef264c74a4329e4fff331b50b2.js": "/LOTG/precache-manifest.45caf2ef264c74a4329e4fff331b50b2.js",
     "service-worker.js": "/LOTG/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/LOTG/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.5f361e03.chunk.css.map": "/LOTG/static/css/main.5f361e03.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.c82c63f2.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.d10e05d7.chunk.js"
+    "static/js/main.5885f4c1.chunk.js"
   ]
 }
